@@ -1,4 +1,3 @@
 # programmieren
 
-**kursiv**
 ##Schrift
